@@ -167,7 +167,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "embatest"
+name = "embassybase"
 version = "0.1.0"
 dependencies = [
  "embassy-executor",
